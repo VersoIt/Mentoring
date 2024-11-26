@@ -9,3 +9,7 @@ func master() {
 }
 
 func a() {}
+
+func b() {
+
+}
